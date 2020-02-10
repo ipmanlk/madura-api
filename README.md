@@ -20,7 +20,7 @@ npm install @ipmanlk/madura-api --save
 Example,
 
 ```javascript
-const { search } = require("./lib/madura");
+const { search } = require("@ipmanlk/madura-api");
 
 // find Sinhala meanings
 search("cat").then(meanings => {
