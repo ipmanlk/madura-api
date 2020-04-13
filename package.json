@@ -1,6 +1,6 @@
 {
   "name": "@ipmanlk/madura-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript API for the Madura Online Dictionary",
   "main": "index.js",
   "directories": {
