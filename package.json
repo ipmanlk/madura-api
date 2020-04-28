@@ -11,9 +11,7 @@
   },
   "author": "Navinda Dissanayake",
   "license": "MIT",
-  "dependencies": {
-    "cheerio": "^1.0.0-rc.3"
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^7.0.1"
